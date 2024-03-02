@@ -28,4 +28,4 @@
     pip install -r requirements.txt
     ```
 
-    The notebook uses Selenium to scrape the data from the web. To use it, you need to have the Firefox driver installed. You can download it [here](https://github.com/mozilla/geckodriver/releases). After downloading, extract the file and move the `geckodriver` file to the `venv/bin` folder (Linux) or `venv/Scripts` folder (Windows).
+    The notebook uses Selenium to scrape the data from the web. To use it, you need to have the Firefox driver installed. You can download it [here](https://github.com/mozilla/geckodriver/releases). After downloading, extract the file and move the `geckodriver` file to the `venv/bin` folder (Linux) or `venv/Scripts` folder (Windows). Also you can uncomment the line for installing the `geckodriver` in the notebook.
