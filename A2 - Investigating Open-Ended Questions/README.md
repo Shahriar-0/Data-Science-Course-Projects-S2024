@@ -1,4 +1,4 @@
-# CA1 - Statistical Analysis Tools
+# CA2 - Investigating Open-Ended Questions
 
 ## Table of Contents
 
