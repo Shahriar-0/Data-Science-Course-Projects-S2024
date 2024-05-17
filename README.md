@@ -8,6 +8,7 @@
   - [Assignment 3: Spotify Dataset Analysis](#assignment-3-spotify-dataset-analysis)
   - [Assignment 4: Loss Functions and Regression](#assignment-4-loss-functions-and-regression)
   - [Assignment 5: Feature Engineering Techniques](#assignment-5-feature-engineering-techniques)
+  - [Assignment 6: Dimensionality Reduction and Unsupervised Learning](#assignment-6-dimensionality-reduction-and-unsupervised-learning)
   - [Project](#project)
     - [Phase 1: Data Collection](#phase-1-data-collection)
     - [Phase 2: Data Cleaning](#phase-2-data-cleaning)
@@ -39,6 +40,10 @@ In this assignment, we were tasked with implementing some basic loss functions a
 ## Assignment 5: Feature Engineering Techniques
 
 In this assignment, we were tasked with implementing some feature engineering techniques and using them to train a simple linear regression model. The given dataset contains information about outcome of shoots in football matches. Then we were tasked with regressing the price and horsepower of cars with a different dataset. Then we trained a Multivariate and a K-Fold model to do the regression.
+
+## Assignment 6: Dimensionality Reduction and Unsupervised Learning
+
+In this assignment, we were tasked with implementing some dimensionality reduction techniques and using them to train a simple K-Means and DBSCAN clustering model. We implemented the Principal Component Analysis (PCA) dimensionality reduction technique and used it to reduce the dimensionality of a dataset containing information about the diabetics data. We then used the reduced dataset to train a K-Means and DBSCAN clustering model to cluster the songs based on their features.
 
 ## Project
 
