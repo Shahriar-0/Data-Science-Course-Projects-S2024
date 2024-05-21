@@ -1,0 +1,9 @@
+Model
+Hatch          40
+Countryman     31
+Clubman         9
+Convertible     5
+Paceman         5
+Coupe           4
+Mini ONE        4
+Roadster        2

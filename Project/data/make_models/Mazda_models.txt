@@ -1,0 +1,10 @@
+Model
+CX-5       28
+CX-3       17
+Mazda 3    16
+Mazda 2    15
+Mazda 5     4
+CX-30       2
+Mazda 6     2
+CX-7        1
+MX5         1

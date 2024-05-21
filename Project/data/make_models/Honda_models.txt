@@ -1,0 +1,13 @@
+Model
+CR-V       19
+Jazz       18
+Civic      15
+Ballade    13
+Brio       12
+HR-V       11
+BR-V        9
+WR-V        5
+Amaze       3
+S2000       3
+CR-Z        2
+FR-V        1

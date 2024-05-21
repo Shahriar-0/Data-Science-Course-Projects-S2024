@@ -1,0 +1,13 @@
+Model
+Corsa          26
+Astra          21
+Mokka X        12
+Adam            7
+Crossland X     3
+Grandland X     3
+Mokka           3
+Combo           2
+Crossland       2
+Meriva          2
+Vivaro          1
+Zafira          1

@@ -1,0 +1,6 @@
+Model
+H2           30
+H6           21
+H2 Jolion    17
+H1           11
+H9            5

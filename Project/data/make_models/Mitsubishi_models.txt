@@ -1,0 +1,8 @@
+Model
+Pajero           27
+ASX               9
+Pajero Sport      9
+Eclipse Cross     3
+Outlander         3
+Lancer            1
+Triton            1

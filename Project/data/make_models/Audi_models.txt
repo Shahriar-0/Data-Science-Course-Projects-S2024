@@ -1,0 +1,21 @@
+Model
+A4              66
+Q5              65
+A3              64
+A1              33
+A5              30
+Q3              21
+Q2              17
+A6              13
+Q7              13
+S3               8
+RS3              6
+Q8               4
+TT               4
+A3 Sportback     3
+A4 Allroad       3
+A7               3
+S4               3
+TTS              3
+A8               2
+R8               2

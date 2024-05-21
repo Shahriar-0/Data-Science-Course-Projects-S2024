@@ -1,0 +1,8 @@
+Model
+F-Pace    32
+XF        19
+E-Pace    14
+XE         9
+F-Type     6
+XJ         2
+XKR        2

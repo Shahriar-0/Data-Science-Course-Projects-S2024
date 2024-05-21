@@ -1,0 +1,25 @@
+Model
+3 Series                171
+1 Series                108
+X3                       63
+X1                       49
+X5                       48
+5 Series                 41
+2 Series                 28
+4 Series                 18
+X4                       16
+X6                       12
+2 Series Active Tour      9
+6 Series                  9
+7 Series                  9
+1 Series (f40)            7
+Z4                        7
+3 Series GT               3
+X2                        3
+2 Series Gran Coupe       2
+4 Series Gran Coupe       2
+M2                        2
+X5 M                      2
+5 Series GT               1
+8 Series                  1
+X7                        1

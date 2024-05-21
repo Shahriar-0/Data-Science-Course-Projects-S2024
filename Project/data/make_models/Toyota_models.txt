@@ -1,0 +1,35 @@
+Model
+Fortuner                  206
+RAV 4                      65
+Fortuner Epic              56
+Corolla                    48
+Prado                      43
+Corolla Quest              40
+Etios                      35
+Yaris                      34
+C-HR                       18
+Land Cruiser               17
+Urban Cruiser              13
+Aygo                       12
+Agya                       10
+Auris                      10
+FJ Cruiser                  9
+Starlet                     9
+Hiace Sesfikile             8
+Rush                        8
+Avanza                      6
+Quantum                     5
+Runx                        5
+Land Cruiser 70 Series      4
+Tazz                        4
+Camry                       3
+Verso                       3
+86                          2
+GR Supra                    2
+Condor                      1
+HI ACE                      1
+Hilux                       1
+Innova                      1
+Prius                       1
+Rumion                      1
+Yaris Pulse                 1

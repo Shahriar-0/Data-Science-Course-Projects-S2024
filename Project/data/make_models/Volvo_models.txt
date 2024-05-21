@@ -1,0 +1,17 @@
+Model
+Xc60                 64
+V40                  44
+Xc90                 22
+Xc40                 21
+S60                  16
+S90                   8
+V60                   7
+S40                   6
+XC 90                 5
+S80                   2
+V90 Cross Country     2
+C30                   1
+V50                   1
+V60 Cross Country     1
+V70                   1
+Xc70                  1
