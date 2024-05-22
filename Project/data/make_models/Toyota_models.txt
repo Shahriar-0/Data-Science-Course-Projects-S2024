@@ -30,6 +30,5 @@ Condor                      1
 HI ACE                      1
 Hilux                       1
 Innova                      1
-Prius                       1
 Rumion                      1
 Yaris Pulse                 1

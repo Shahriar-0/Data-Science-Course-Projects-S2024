@@ -9,8 +9,8 @@ SLK Class              24
 B Class                23
 E Class                22
 GLE                    19
-E Class Sedan          18
 C Class Coupe          16
+E Class Sedan          16
 GLC                    14
 A Class Sedan           9
 Vito                    8

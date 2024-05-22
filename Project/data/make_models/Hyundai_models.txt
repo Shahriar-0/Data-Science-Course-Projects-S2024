@@ -6,7 +6,7 @@ iX35           32
 Creta          23
 i10            20
 Atos           18
-H-1            18
+H-1            17
 Santa-FE       16
 Elantra        14
 Accent         13
