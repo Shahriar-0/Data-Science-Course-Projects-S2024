@@ -1,0 +1,18 @@
+Model
+Sandero       41
+Kwid          37
+Duster        35
+Clio IV       29
+Captur        22
+Kiger          8
+Koleos         7
+Megane III     7
+Triber         6
+Kadjar         5
+Clio           3
+Megane II      3
+Clio III       2
+Megane IV      2
+Fluence        1
+Modus          1
+Scenic         1

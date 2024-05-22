@@ -1,0 +1,8 @@
+Model
+Wrangler          58
+Grand Cherokee    48
+Renegade          30
+Cherokee          29
+Compass           17
+Srt8               5
+Patriot            3

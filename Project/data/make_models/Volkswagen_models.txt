@@ -1,0 +1,34 @@
+Model
+Polo               124
+Tiguan              92
+Polo Vivo           70
+Caddy               38
+Golf 7              34
+T6                  29
+Tiguan Allspace     22
+Touareg             20
+T5                  19
+Up!                 18
+Golf 6              17
+Jetta 6             17
+T-Cross             16
+T6.1                10
+Scirocco             9
+Passat               8
+T-ROC                7
+Golf 5               6
+Arteon               4
+CC                   4
+Citi                 4
+Jetta                4
+Golf 4               3
+Touran               3
+Golf 8               2
+Jetta 5              2
+Taigo                2
+Amarok               1
+Beetle               1
+Golf SV              1
+Jetta 4              1
+Polo Playa           1
+Sharan               1

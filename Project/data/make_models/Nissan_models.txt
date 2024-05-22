@@ -1,0 +1,20 @@
+Model
+X Trail              88
+Qashqai              68
+Micra                18
+Juke                 15
+Almera                9
+Magnite               5
+Pathfinder            5
+Livina                3
+Tiida                 3
+350 Z                 2
+Murano                2
+Nv200                 2
+Hardbody              1
+NP200                 1
+NV350                 1
+Patrol                1
+Primastar/ NV 200     1
+Sentra 2013           1
+Terra                 1

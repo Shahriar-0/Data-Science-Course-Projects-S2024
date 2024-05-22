@@ -1,0 +1,20 @@
+Model
+Ecosport           162
+Kuga                86
+Everest             71
+Fiesta              61
+Figo                39
+Focus               37
+Mustang              7
+Fiesta ST            6
+Territory            5
+Tourneo Connect      5
+Tourneo Custom       5
+Transit Connect      4
+Tourneo              3
+Transit              3
+Fusion               2
+KA                   2
+Ranger               2
+B-MAX                1
+Ikon                 1

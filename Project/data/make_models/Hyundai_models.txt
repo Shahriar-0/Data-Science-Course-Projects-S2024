@@ -1,0 +1,22 @@
+Model
+Tucson         52
+Grand i10      39
+i20            35
+iX35           32
+Creta          23
+i10            20
+Atos           18
+H-1            17
+Santa-FE       16
+Elantra        14
+Accent         13
+Getz           11
+Venue           8
+Grand Creta     4
+Kona            4
+Sonata          3
+Veloster        3
+i30             3
+Palisade        2
+Matrix          1
+Terracan        1

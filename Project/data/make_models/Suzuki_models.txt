@@ -1,0 +1,13 @@
+Model
+Swift           36
+Jimny           24
+SX4             10
+S-Presso         9
+Vitara           9
+Baleno           7
+Ignis            7
+Grand Vitara     5
+Ciaz             2
+Celerio          1
+Eeco             1
+Ertiga           1

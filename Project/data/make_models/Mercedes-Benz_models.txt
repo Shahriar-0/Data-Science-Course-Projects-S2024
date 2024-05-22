@@ -1,0 +1,37 @@
+Model
+C Class Sedan          87
+A Class                85
+C Class                81
+ML                     57
+GLA                    35
+CLA                    29
+SLK Class              24
+B Class                23
+E Class                22
+GLE                    19
+C Class Coupe          16
+E Class Sedan          16
+GLC                    14
+A Class Sedan           9
+Vito                    8
+E Class Coupe           7
+GL Class                7
+E Class Cabriolet       6
+S Class                 6
+C Class Estate          5
+CLS Class               5
+CLK Class Cabriolet     4
+Viano                   4
+Vito BUS                4
+GLB                     3
+CL Class                2
+CLK Class Coupe         2
+G Class                 2
+GLS                     2
+V250                    2
+AMG GT                  1
+CLC Coupe               1
+E Class Estate          1
+R Class                 1
+SL Class Cabriolet      1
+SLK                     1

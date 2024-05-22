@@ -1,0 +1,9 @@
+Model
+Picanto     38
+Sportage    32
+RIO         29
+Sorento     18
+Cerato       9
+Soul         3
+Optima       1
+Stinger      1

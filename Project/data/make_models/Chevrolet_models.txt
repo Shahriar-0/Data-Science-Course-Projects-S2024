@@ -1,0 +1,10 @@
+Model
+Captiva        26
+Trailblazer    22
+Spark          20
+Cruze          10
+Aveo            7
+Sonic           6
+Lumina          2
+Optra           2
+Orlando         1
