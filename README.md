@@ -63,4 +63,4 @@ In this phase we cleaned the data we gathered in the previous phase. We removed 
 
 ### Phase 3: Regression Analysis
 
-In this phase we used the cleaned data to train a regression model to predict the price of the cars. We used different regression techniques such as Neural Networks, SVM, Decision Tree, and other methods as well. We also used different feature engineering techniques to improve the performance of the model. Finally, we evaluated the performance of the model using different evaluation metrics such as the R^2 score and the Mean Squared Error (MSE).
+In this phase we used the cleaned data to train a regression model to predict the price of the cars. We used different regression techniques such as Neural Networks, SVM, Decision Tree, and other methods as well. We also used different feature engineering techniques to improve the performance of the model. Finally, we evaluated the performance of the model using different evaluation metrics such as the $R^2$ score and the Mean Squared Error (MSE).
